@@ -1,5 +1,5 @@
 <h1>OLYMPIC DATA ANALYSIS</h1>
-<h3> Objective of the data </h3>: 
+<h3> Objective of the data :</h3>
 To find out the medal distribution of the country.
 <h3>TOOLS USED : Power BI, Excel, Measure, DAX and Column </h3>
 <h4> About the Data </h4>
