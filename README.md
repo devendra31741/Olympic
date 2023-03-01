@@ -1,4 +1,6 @@
 <h1>OLYMPIC DATA ANALYSIS</h1>
+<h3> Objective of the data </h3>: 
+<p> To find out the medals distribution of the country. </p>
 <h3>TOOLS USED : Power BI, Excel, Measure, DAX and Column </h3>
 <h4> About the Data </h4>
 <p> The raw file contain data of the olympic that took place from 2004 and 2012. The data file contain the name of countries participated, players participated, sports in which the player involved, the year of olympic took place and the sports the players participated.  </p>
